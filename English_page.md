@@ -41,7 +41,7 @@ The KO-SAT Slayer Champions League is an elite leaderboard where high school stu
 
 Have questions or need support? Feel free to reach out:
 
-- Email: support@kosat-slayer.com
+- Email: developerminsing@gmail.com
 - Join our Discord: [KO-SAT Slayer Discord](#)
 
 Let's see if you have what it takes to be the **next KO-SAT Slayer Champion**! 💪
@@ -53,3 +53,7 @@ _The KO-SAT Slayer Champions League is an independent platform and is not affili
 
 
 [성능을 올리기 위한 꿀팁](https://github.com/NomaDamas/KICE_slayer_AI_Korean)
+
+
+
+
