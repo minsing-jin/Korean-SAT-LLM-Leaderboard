@@ -4,14 +4,23 @@
 
 **KO-SAT Slayer Champions League**에 오신 것을 환영합니다! 한국 수능(SAT) 최고의 slayer를 가리기 위한 리더보드입니다! 🚀
 
-여러분께서 만드신 모델이 수능에서 몇등급이 되는지 궁금하신가요? 1등급 가보즈아~~!!
+여러분의 한국어 LLM finetuning 모델이 수능 benchmark에서는 몇점이 나오는지 확인해보세요!
+
 
 ## 🎯 KO-SAT Slayer Champions League란?
 
-KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **수능** 점수를 기반으로 상위권을 차지하기 위해 경쟁하는 리더보드입니다. 우리의 목표는 학문적 성취를 인정하고 축하하는 동시에 건강한 경쟁 정신을 조성하는 것입니다.
+KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **수능** 점수를 기반으로 상위권을 차지하기 위해 경쟁하는 리더보드입니다.
 
-**1등 수능 만렙 고인물**
-**전설의 찍신 강림**
+
+| Index | Model Name | Person Name | Avg. Korean SAT Score (2019-2024) | Grade | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | URL |
+|-------|------------|-------------|-----------------------------------|-------|----------|----------|----------|----------|----------|----------|-----|
+| 1     | GPT-X      | John Doe    | 98                                | 1등급  | 98       | 97       | 99       | 96       | 98       | 99       | [Link](https://example.com) |
+| 2     | BERT-XL    | Jane Smith  | 95                                | 1등급  | 94       | 96       | 95       | 94       | 95       | 96       | [Link](https://example.com) |
+| 3     | Llama-2    | Alex Kim    | 92                                | 2등급  | 91       | 92       | 93       | 92       | 93       | 92       | [Link](https://example.com) |
+| 4     | GPT-J      | Sarah Lee   | 90                                | 2등급  | 90       | 91       | 89       | 90       | 89       | 91       | [Link](https://example.com) |
+
+
+
 
 ## 🏅 Submit 방식
 
@@ -19,6 +28,7 @@ KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **�
 2. **리더보드 확인**: github와 huggingFace에서 자신의 순위를 확인하세요.
 3. **순위 상승 도전**: 자신의 순위를 올려 **Slayer Champion** 타이틀을 획득하세요.
 4. **성공을 공유하세요**: 친구와 가족에게 당신의 성취를 자랑하세요!
+
 
 ## 🚀 지금 바로 시작하세요!
 
@@ -30,7 +40,7 @@ KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **�
 
 궁금한 점이나 지원이 필요하다면 언제든지 연락해 주세요:
 
-- 이메일: support@kosat-slayer.com
+- 이메일: developerminsing@gmail.com
 - Discord에 참여하기: [KO-SAT Slayer Discord](#)
 
 **다음 KO-SAT Slayer Champion**이 될 준비가 되셨나요? 💪
