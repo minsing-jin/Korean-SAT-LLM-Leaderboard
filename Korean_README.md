@@ -4,7 +4,7 @@
 
 **KO-SAT Slayer Champions League**에 오신 것을 환영합니다! 한국 수능(SAT) 최고의 slayer를 가리기 위한 리더보드입니다! 🚀
 
-여러분의 한국어 LLM finetuning 모델이 수능 benchmark에서는 몇점이 나오는지 확인해보세요!
+여러분의 한국어 LLM finetuning 모델이 수능 benchmark에서는 몇점이 나오는지 확인해보세요! 최종 목표는 갈 수 있는 gpt로 서울대 가기입니다!
 
 
 ## 🎯 KO-SAT Slayer Champions League란?
