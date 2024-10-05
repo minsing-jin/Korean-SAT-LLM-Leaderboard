@@ -4,7 +4,7 @@
 
 **KO-SAT Slayer Champions League**에 오신 것을 환영합니다! 한국 수능(SAT) 최고의 slayer를 가리기 위한 리더보드입니다! 🚀
 
-여러분의 한국어 LLM finetuning 모델이 수능 benchmark에서는 몇점이 나오는지 확인해보세요! 최종 목표는 갈 수 있는 gpt로 서울대 가기입니다!
+여러분의 한국어 LLM finetuning 모델이 수능 10개년 benchmark에서는 몇점이 나오는지 확인해보세요! 혹여나 평가를 할 수 있는 GPU 자원 공유해주신다면 정말 감사하겠습니다!
 
 
 ## 🎯 KO-SAT Slayer Champions League란?
@@ -24,10 +24,9 @@ KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **�
 
 ## 🏅 Submit 방식
 
-1. **점수 제출**: 간단한 양식을 통해 수능 점수를 등록하세요.
+1. **모델 submit**: huggingFace에 자신의 finetuned model을 게시하고, 모델 url과 
 2. **리더보드 확인**: github와 huggingFace에서 자신의 순위를 확인하세요.
 3. **순위 상승 도전**: 자신의 순위를 올려 **Slayer Champion** 타이틀을 획득하세요.
-4. **성공을 공유하세요**: 친구와 가족에게 당신의 성취를 자랑하세요!
 
 
 ## 🚀 지금 바로 시작하세요!
