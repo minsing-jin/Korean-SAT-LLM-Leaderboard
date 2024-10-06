@@ -78,4 +78,5 @@ KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한�
 
 ---
 
-_KO-SAT Slayer Champions League는 독립적인 플랫폼으로, 어떠한 공식 교육 기관 또는 단체와도 제휴되어 있지 않습니다._
+_KO-SAT Slayer Champions League는 독립적인 플랫폼으로, 어떠한 공식 교육 기관 또는 단체와도 제휴되어 있지 않으며 
+비상업적인 목적을 가지고 있습니다._
