@@ -4,12 +4,15 @@
 
 **KO-SAT Slayer Champions League**에 오신 것을 환영합니다! 한국 수능(SAT) 최고의 slayer를 가리기 위한 리더보드입니다! 🚀
 
-여러분의 한국어 LLM finetuning 모델이 수능 10개년 benchmark에서는 몇점이 나오는지 확인해보세요! 혹여나 평가를 할 수 있는 GPU 자원 공유해주신다면 정말 감사하겠습니다!
+여러분의 한국어 LLM finetuning 모델이 한국 수능 10개년 benchmark에서는 몇점이 나오는지 확인해보세요! 혹여나 평가를 할 수 있는 GPU 자원 공유해주신다면 정말 감사하겠습니다!
 
 
-## 🎯 KO-SAT Slayer Champions League란?
+## 🎯 KO-SAT Slayer Champions League Leaderboard란?
 
-KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들의 진학을 위한 **수능** 점수를 기반으로 
+KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한국교육과정평가원)에서 개발한 대학수학능력평가 시험인 국어 시험문제를 benchmark한 리더보드입니다.
+고등학교 
+수능 문제는 난이도에 따라 다양한 유형의 질문으로 구성되어 있으며, 독해력, 비판적 사고, 문장 해석 능력을 측정합니다.
+
 
 1. 평가에 사용할 데이터셋
 
@@ -18,18 +21,25 @@ KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들의 진�
 
 2. Metric (평가지표)
 
-- 대회에서는 수능 국어 답안의 정확 여부를 기준으로 성능을 평가합니다. 즉, 각 모델이 제시된 문제에 대해 제출한 답안이 실제 정답과 일치하는지 여부를 측정하는 방식입니다. 평가 점수는 각 년도의 문제별로 채점되며, 최종적으로는 참가 모델의 평균 정확도를 통해 순위가 매겨집니다. 정확도가 높을수록 상위 랭킹을 차지하게 됩니다.
+- 대회에서는 수능 국어 답안의 정확 여부를 기준으로 성능을 평가합니다. 즉, 각 모델이 제시된 문제에 대해 제출한 답안이 실제 정답과 일치하는지 여부를 측정하는 방식입니다. 
+평가 점수는 각 년도의 문제별로 채점되며, 최종적으로는 참가 모델의 평균 정확도를 통해 순위가 매겨집니다. 
+- Benchmark 데이터셋의 주요 평가 목록은 언어 이해력, 핵심 내용 파악 능력, 논리적 사고력, 비판적 사고력, 창의적 사고력, 멀티미디어 해석력을 평가합니다.
+<출처: 2024 KICE 수능 국어 평가 목록>
 
+24년도 수능은 화법과 작문
 
-| Leader Board Rank | Model Name | Person Name | Avg. Korean SAT Score (2015-2024) | Grade  | 2024 SAT  | 2023 SAT  | 2022 SAT  | 2021 SAT  | 2020 SAT  | 2019 SAT  | 2018 SAT  | 2017 SAT  | 2016 SAT  | 2015 SAT  | URL                           |
+## 🏆Top-10
+
+| Leader Board Rank | Model Name | Submitter Name | Avg. Korean SAT Score (2015-2024) | Avg. Grade  | 2024 SAT  | 2023 SAT  | 2022 SAT  | 2021 SAT  | 2020 SAT  | 2019 SAT  | 2018 SAT  | 2017 SAT  | 2016 SAT  | 2015 SAT  | URL                           |
 |-------------------|------------|-------------|-----------------------------------|--------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|------------------------------|
-| 1st               | GPT-4      | John Doe    | 98                                | 1등급  | 98점(1)   | 97점(1)   | 99점(1)   | 96점(1)   | 98점(1)   | 99점(1)   | 98점(1)   | 97점(1)   | 98점(1)   | 99점(1)   | [Link](https://example.com)   |
-| 2nd               | BERT-XL    | Jane Smith  | 95                                | 1등급  | 94점(2)   | 96점(1)   | 95점(1)   | 94점(2)   | 95점(1)   | 96점(1)   | 95점(1)   | 94점(2)   | 96점(1)   | 95점(1)   | [Link](https://example.com)   |
-| 3rd               | Llama-2    | Alex Kim    | 92                                | 2등급  | 91점(2)   | 92점(2)   | 93점(1)   | 92점(2)   | 93점(1)   | 92점(2)   | 93점(1)   | 91점(2)   | 92점(2)   | 93점(1)   | [Link](https://example.com)   |
-| 4th               | GPT-J      | Sarah Lee   | 90                                | 2등급  | 90점(2)   | 91점(2)   | 89점(2)   | 90점(2)   | 89점(2)   | 91점(2)   | 89점(2)   | 90점(2)   | 89점(2)   | 91점(2)   | [Link](https://example.com)   |
+| 1st               | GPT-4      | OpenAI    | 71.9                                | 1등급  | 62점(1)   | 83점(1)   | 62점(1)   | 56점(1)   | 74점(1)   | 72점(1)   | 82점(1)   | 66점(1)   | 84점(1)   | 78점(1)   | [Link](https://openai.com/)   |
+| 2nd              | GPT-3.5-16K           | OpenAI    | 35.1                               | 7등급  | 26점(3)   | 	46점(3)   |   44점(3)   | 24점(3)   | 35점(3)   |   31점(3)   |   37점(3)   | 32점(3)   | 44점(3)   | 	32점(3)   | [Link](https://openai.com/)   |
+| 3rd               | Synatra-7B        | maywell/Synatra-7B-v0.3-base | 19.7                               | 3등급  | 13점(3)   | 22점(3)   | 22점(3)   | 15점(3)   |   19점(3)   | 	21점(3)   | 	24점(3)   | 	  20점(3)   | 	16점(3)   | 25점(3)   | [Link](https://huggingface.co/maywell/Synatra-7B-v0.3-base)   |
 
+## Benchmark에 이용된 Baseline 프롬프트
+- [형식지정프롬프트 from Nomadamas](https://github.com/NomaDamas/KICE_slayer_AI_Korean?tab=readme-ov-file#5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
+- 사용된 프롬프트 기법: manual-COT, POTTER
 
-## 사용될 프롬프트 형식
 ```
 국어 시험 문제를 푸는 대한민국의 고3 수험생으로서 위의 요약을 바탕으로 다음 문제의 답을 구하세요.
     
@@ -62,6 +72,9 @@ KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들의 진�
 2. **리더보드 확인**: github와 huggingFace에서 자신의 순위를 확인하세요.
 3. **순위 상승 도전**: 자신의 순위를 올려 **Slayer Champion** 타이틀을 획득하세요.
 
+
+## 참고할 Reference
+- [Nomadamas 실험기록](https://github.com/NomaDamas/KICE_slayer_AI_Korean?tab=readme-ov-file#5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
 
 ## 🚀 지금 바로 시작하세요!
 
