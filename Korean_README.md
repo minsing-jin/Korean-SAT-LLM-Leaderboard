@@ -12,12 +12,12 @@
 KO-SAT Slayer Champions League는 대한민국 전역의 고등학생들이 **수능** 점수를 기반으로 상위권을 차지하기 위해 경쟁하는 리더보드입니다.
 
 
-| Leader Board Rank | Model Name | Person Name | Avg. Korean SAT Score (2019-2024) | Grade | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | URL |
-|-------|------------|-------------|-----------------------------------|-------|----------|----------|----------|----------|----------|----------|-----|
-| 1     | GPT-X      | John Doe    | 98                                | 1등급  | 98       | 97       | 99       | 96       | 98       | 99       | [Link](https://example.com) |
-| 2     | BERT-XL    | Jane Smith  | 95                                | 1등급  | 94       | 96       | 95       | 94       | 95       | 96       | [Link](https://example.com) |
-| 3     | Llama-2    | Alex Kim    | 92                                | 2등급  | 91       | 92       | 93       | 92       | 93       | 92       | [Link](https://example.com) |
-| 4     | GPT-J      | Sarah Lee   | 90                                | 2등급  | 90       | 91       | 89       | 90       | 89       | 91       | [Link](https://example.com) |
+| Leader Board Rank | Model Name | Person Name | Avg. Korean SAT Score (2015-2024) | Grade  | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | 2018 SAT | 2017 SAT | 2016 SAT | 2015 SAT | URL                           |
+|-------------------|------------|-------------|-----------------------------------|--------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|------------------------------|
+| 1                 | GPT-X      | John Doe    | 98                                | 1등급  | 98       | 97       | 99       | 96       | 98       | 99       | 98       | 97       | 98       | 99       | [Link](https://example.com)   |
+| 2                 | BERT-XL    | Jane Smith  | 95                                | 1등급  | 94       | 96       | 95       | 94       | 95       | 96       | 95       | 94       | 96       | 95       | [Link](https://example.com)   |
+| 3                 | Llama-2    | Alex Kim    | 92                                | 2등급  | 91       | 92       | 93       | 92       | 93       | 92       | 93       | 91       | 92       | 93       | [Link](https://example.com)   |
+| 4                 | GPT-J      | Sarah Lee   | 90                                | 2등급  | 90       | 91       | 89       | 90       | 89       | 91       | 89       | 90       | 89       | 91       | [Link](https://example.com)   |
 
 
 
