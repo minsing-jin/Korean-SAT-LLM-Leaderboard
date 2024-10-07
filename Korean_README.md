@@ -36,7 +36,7 @@ KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한�
 
 ## 🏅 Submit 방식
 
-- 리더보드 공개를 원하지 않고, private하게 모델의 성능을 알고 싶다면 하고 싶은 말란에 남겨주세요!
+- 리더보드 공개를 원하지 않고, private하게 모델의 성능을 알고 싶다면 하고 싶은 말 파트에 남겨주세요!
 
 1. **모델 submission**:
    - **[설문 Form으로 제출](https://moaform.com/q/QP0AV0)**: 설문 응답에 맞춰 작성해주세요!
