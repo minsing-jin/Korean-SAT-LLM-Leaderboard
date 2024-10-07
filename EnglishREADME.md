@@ -33,7 +33,7 @@ The Korean SAT (Suneung) is the most credible and highest-quality exam in South 
 
 ## 🏅 Submission Process
 
-Here’s the English translation of your request:
+- If you don't want the leaderboard to be public and want to know your model's performance in private, leave your comments in the blank!
 
 1. **Model Submission**:
    - **[Submit via Survey Form](https://moaform.com/q/X6xfGE)**: Please fill it out based on the survey responses!
@@ -45,6 +45,7 @@ Here’s the English translation of your request:
    <Form Example for Email Submission or Issue Submission>
     Submitter Name: Elonmusk
     HuggingFace Submission URL: https://huggingface.co/ElonmuskModelDogeletsgo
+    Want to talk: Lets go Mars!
     ```
 2. **Check the Leaderboard**: Track your ranking on GitHub and HuggingFace.
     
