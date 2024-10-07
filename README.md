@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9a7b88b0-98dd-44d3-9971-c373dad19676)
+![image](https://github.com/user-attachments/assets/a71e95a5-34f6-4a5b-b698-54560c7a09d6)
 
 
 # KO-SAT Slayer Champions League
