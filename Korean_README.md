@@ -11,8 +11,6 @@ GPU 자원을 제공해주신다면 평가에 큰 도움이 될 것 같습니다
 KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한국교육과정평가원)에서 개발한 대학수학능력평가 시험인 국어 10개년 시험문제를 benchmark한 리더보드입니다.
 수능 문제는 난이도에 따라 다양한 유형의 질문으로 구성되어 있으며, 독해력, 비판적 사고, 문장 해석 능력을 측정합니다.
 
-수능 등급 설명에 대한 doc은 여기서 확인하세요! -> 외국인들을 위함
-
 ## 🏆 명예의 전당 Top-10
 - rank 기준: 10개년 수능 점수들의 평균으로 ranking
 - 수능 점수 표기: 원점수(등급)
@@ -35,15 +33,24 @@ KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한�
 
 ## 🏅 Submit 방식
 
-1. **모델 submit**:
-    - **이메일로 제출**: huggingFace에 자신의 finetuning 모델의 Url과 닉네임을 전송해주세요!
-    - **issue로 제출**: Github의 이슈에서 자신의 finetuning 모델의 Url과 닉네임을 게시해주세요!
+1. **모델 submission**:
+   - **[설문 Form으로 제출](https://moaform.com/q/QP0AV0)**: 설문 응답에 맞춰 작성해주세요!
+     - 링크: https://moaform.com/q/QP0AV0
+   - **이메일로 제출**: huggingFace에 게시된 자신의 finetuning 모델의 Url과 닉네임을 전송해주세요!
+     - 제출 메일: developerminsing@gmail.com
+   - **issue로 제출**: Github의 이슈에서 자신의 finetuning 모델의 Url과 닉네임을 게시해주세요!
+    ```markdown
+   <이메일 제출, 이슈 제출시 Form example>
+    제출자 이름: 감스트
+    HuggingFace 제출 URL: https://huggingface.co/감스트모델짜스
+    ```
+
 2. **리더보드 확인**: github와 huggingFace에서 자신의 순위를 확인할 수 있습니다.
 3. **순위 상승 도전**: 자신의 순위를 올려 **Slayer Champion** 타이틀을 획득하세요.
 
-**Notice:** 모델 제출후 GPU 리소스 가용 여부와, 제출량에 따라 1~3주일의 시간이 소요될 수 있습니다.
+**Notice:** 모델 제출후 가용한 GPU 리소스와, 제출량에 따라 1~3주일의 시간이 소요될 수 있습니다.
 
-## Benchmark 데이터셋
+## 🪑 Benchmark 데이터셋
 
 - 본 대회에서는 2015년부터 2024년까지의 10개년 수능 국어 문제를 사용합니다. 각 년도의 수능 국어 시험에서 출제된 문제와 지문을 기반으로 대회 참가 모델들의 성능을 평가하게 됩니다.
   수능 문제는 난이도에 따라 다양한 유형의 질문으로 구성되어 있으며, 독해력, 비판적 사고, 문장 해석 능력을 측정합니다.
@@ -51,7 +58,7 @@ KO-SAT Slayer Champions League는 한국의 공신력 있는 매체인 KICE(한�
 - Benchmark 데이터셋의 주요 평가 목록은 언어 이해력, 핵심 내용 파악 능력, 논리적 사고력, 비판적 사고력, 창의적 사고력, 멀티미디어 해석력을 평가합니다.
   <출처: 2024 KICE 수능 국어 평가 목록>
 
-## Metric
+## ♾️ Metric
 
 - 대회에서는 각 모델이 제시된 문제에 대해 제출한 답안이 실제 정답과 일치하는지 여부를 측정하는 방식입니다.
 - 평가 등급은 각 년도의 입시 전문 업체의 통계자료를 참고하여 나온 등급입니다.

@@ -33,17 +33,26 @@ The Korean SAT (Suneung) is the most credible and highest-quality exam in South 
 
 ## 🏅 Submission Process
 
-1. **Submit Your Model**:
-    - **By Email**: Send the URL of your fine-tuned model on HuggingFace along with your nickname via email!
-    - **By Github Issue**: Post the URL of your fine-tuned model and nickname on GitHub as an issue!
-    
+Here’s the English translation of your request:
+
+1. **Model Submission**:
+   - **[Submit via Survey Form](https://moaform.com/q/X6xfGE)**: Please fill it out based on the survey responses!
+     - Link: https://moaform.com/q/X6xfGE
+   - **Submit via Email**: Send the URL of your fine-tuned model posted on HuggingFace along with your nickname!
+     - Submission Email: developerminsing@gmail.com
+   - **Submit via Issue**: Post the URL of your fine-tuned model and your nickname in the GitHub issue!
+    ```markdown
+   <Form Example for Email Submission or Issue Submission>
+    Submitter Name: Elonmusk
+    HuggingFace Submission URL: https://huggingface.co/ElonmuskModelDogeletsgo
+    ```
 2. **Check the Leaderboard**: Track your ranking on GitHub and HuggingFace.
     
 3. **Challenge for a Higher Rank**: Aim to improve your ranking and earn the title of **Slayer Champion**.
 
 **Notice:** It may take 1-3 weeks to process submissions depending on GPU availability and the volume of submissions.
 
-## Benchmark Dataset
+## 🪑 Benchmark Dataset
 
 - This competition uses the Korean SAT (Suneung) language exam questions from 2015 to 2024. The performance of the participating models will be evaluated based on these questions.
   
@@ -57,7 +66,7 @@ The Korean SAT (Suneung) is the most credible and highest-quality exam in South 
 The Korean SAT is widely regarded as one of the most credible and challenging exams, with rigorous questions that assess deep comprehension and critical thinking skills.
 Its high standards and fair evaluation process make it a trusted benchmark in South Korea, known for its academic excellence and influence on university admissions.
 
-## Metric
+## ♾️ Metric
 
 - The competition evaluates each model by measuring how closely the submitted answers match the actual correct answers.
 - The evaluation grades are based on statistics from specialized admissions agencies for each year.
