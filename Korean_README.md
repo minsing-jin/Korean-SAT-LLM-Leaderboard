@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7a9e551b-e236-43e6-be2a-cd8211463af6)
+
 # KO-SAT Slayer Champions League
 
 **KO-SAT Slayer Champions League**에 오신 것을 환영합니다! 한국 수능(SAT) 최고의 slayer를 가리기 위한 리더보드입니다! 🚀
