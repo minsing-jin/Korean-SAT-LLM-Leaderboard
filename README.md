@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5e114085-b13b-411e-97a1-b347b118406e)
+
 # KO-SAT Slayer Champions League
 
 Welcome to the **KO-SAT Slayer Champions League**! 🚀 This is the leaderboard to identify the ultimate slayer of the Korean SAT (Suneung). 
