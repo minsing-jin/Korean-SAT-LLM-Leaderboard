@@ -4,6 +4,8 @@ Welcome to the **KO-SAT Slayer Champions League**! 🚀 This is the leaderboard 
 
 Check how well your Korean LLM fine-tuning model performs on a 10-year benchmark of the Korean SAT! If you can provide GPU resources, it will greatly assist the evaluation process for us. Thank you in advance!
 
+[한국어 설명 바로가기](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md)
+
 ## 🎯 What is the KO-SAT Slayer Champions League Leaderboard?
 
 The KO-SAT Slayer Champions League is a leaderboard that benchmarks LLM models using the Korean SAT (Suneung) language exams, developed by KICE (Korea Institute for Curriculum and Evaluation), spanning from 2015 to 2024. 
