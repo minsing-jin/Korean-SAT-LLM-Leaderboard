@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/a71e95a5-34f6-4a5b-b698-54560c7a09d6)
+
+
 # KO-SAT Slayer Champions League
 
 Welcome to the **KO-SAT Slayer Champions League**! 🚀 This is the leaderboard to identify the ultimate slayer of the
