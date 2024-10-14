@@ -108,6 +108,15 @@ Donating GPU resources would be greatly appreciated and would help with the eval
 
 - [Nomadamas Experimental Records](https://github.com/NomaDamas/KICE_slayer_AI_Korean?tab=readme-ov-file#5-%ED%98%95%EC%8B%9D-%EC%A7%80%EC%A0%95-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8)
 
+
+## 🤷 More About CSAT(Korean college entrance exam)
+The Korean CSAT (College Scholastic Ability Test) Korean Language section is a university entrance exam, 
+with questions meticulously selected by renowned scholars from KICE (Korea Institute for Curriculum and Evaluation), 
+who are confined to a hotel for this process. It is one of the most reputable exams in Korea. Evaluating the performance 
+of LLMs (Large Language Models) based on the metrics used to assess test-takers provides an excellent opportunity to 
+compare human proficiency with the language capabilities of LLMs.
+
+
 ## 📰 Notice
 
 - Due to copyright concerns, the CSAT benchmark dataset will not be made publicly available. The evaluation data spans from the **2015 CSAT to the 2024 CSAT**, and elective subjects for the years 2022 to 2024 will be limited to **Speech and Composition**.
