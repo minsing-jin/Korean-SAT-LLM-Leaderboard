@@ -12,7 +12,7 @@ If you can provide access to GPU resources, it would greatly assist in the evalu
 
 The KO-SAT Slayer Champions League is a leaderboard benchmarked using the Korean SAT (Suneung) language exams from the past 10 years, developed by KICE (Korea Institute for Curriculum and Evaluation), a respected authority in the field. The Korean SAT features a range of question types that assess reading comprehension, critical thinking, and sentence interpretation skills.
 
-## 🏆 Hall of Fame Top-10
+## 🏆 Hall of Fame
 
 - **Ranking Criteria**: The average of standardized scores across 10 years (standardized scores reflect the difficulty of each year's exam).
 - **Score Format**: Raw score (Grade)
