@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ff0b3721-8ba0-4938-a38b-ca5636d0a3ae)
+
+
 # 🏆 Korean SAT LLM Leaderboard
 
 Take advantage of this unique opportunity to compare human academic ability with the performance of large language models (LLMs) based on the highly reputable College Scholastic Ability Test (CSAT)!
