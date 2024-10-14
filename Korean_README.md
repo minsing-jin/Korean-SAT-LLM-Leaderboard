@@ -3,11 +3,10 @@
 # 🏆 수능 국어 LLM 리더보드
 
 ------------
-"인간시대의 끝이 도래했다~" 수능 국어 LLM이 사람보다 국어 문제를 더 잘 푼다~? 
+수능 국어 LLM 벤치마크 리더보드를 바탕으로, Human performance와 LLM의 Performance를 비교해보세요!
 
-수능 국어 LLM 벤치마크 리더보드를 바탕으로, 사람의 수학 능력과 LLM의 성능을 비교할 수 있는 특별한 기회에 여러분도 참여해보세요!
-
-여러분이 개발한 한국어 LLM 파인튜닝 모델이 한국 수능 10개년 벤치마크에서 몇 점을 받을지 지금 바로 확인해보세요!
+여러분이 개발한 한국어 LLM 파인튜닝 모델이 인간의 performance를 넘어 새로운 역사를 쓸 준비가 되었습니까? 지금 바로 벤치마크에서 모델의 한계를 시험하고, 수능 국어에서 SOTA(State Of The
+Art) 자리를 차지하세요!👑
 
 | Leaderboard Rank |             Model Name             | Submitter Name | Avg. std Score | Avg. Grade | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | 2018 SAT | 2017 SAT | 2016 SAT | 2015 SAT | URL                                                                                                                                    |
 |:----------------:|:----------------------------------:|:--------------:|:--------------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------|
@@ -22,7 +21,7 @@
 |       9th        |    Mixtral-8x22B-Instruct-v0.1     |   MistralAI    |      83.4      |    6.6     |  40 (7)  |  44 (7)  |  47 (6)  |  31 (8)  |  38 (7)  |  35 (7)  |  65 (5)  |  57 (6)  |  50 (6)  |  44 (7)  | [Link](https://huggingface.co/mistralai/Mixtral-8x22B-Instruct-v0.1)                                                                   |
 |       10th       |          WizardLM-2-8x22B          |   Microsoft    |      83.3      |    6.6     |  37 (7)  |  56 (6)  |  47 (6)  |  30 (8)  |  52 (6)  |  29 (8)  |  51 (6)  |  47 (7)  |  51 (6)  |  53 (6)  | [Link](https://www.microsoft.com/en-us/research/publication/wizardlm-empowering-large-language-models-to-follow-complex-instructions/) |
 |       11th       |  Meta-Llama-3.1-8B-Instruct-Turbo  |   meta-llama   |      74.7      |    7.1     |  46 (6)  |  31 (8)  |  36 (7)  |  34 (7)  |  36 (7)  |  24 (8)  |  38 (7)  |  38 (7)  |  37 (7)  |  45 (7)  | [Link](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)                                                                        |
-|       12th       |           gpt-3_5-turbo            |     OpenAI     |      68.7      |    7.7     |  29 (8)  |  39 (7)  |  26 (8)  |  17 (9)  |  36 (7)  |  24 (8)  |  38 (7)  |  25 (8)  |  45 (7)  |  27 (8)  | [Link](https://openai.com/)                                                                                                            |
+|       12th       |         gpt-3.5-turbo-0125         |     OpenAI     |      68.7      |    7.7     |  29 (8)  |  39 (7)  |  26 (8)  |  17 (9)  |  36 (7)  |  24 (8)  |  38 (7)  |  25 (8)  |  45 (7)  |  27 (8)  | [Link](https://openai.com/)                                                                                                            |
 |       13th       |     Mixtral-8x7B-Instruct-v0.1     |   MistralAI    |      63.4      |    8.3     |  19 (9)  |  25 (8)  |  40 (7)  |  20 (9)  |  27 (8)  |  19 (9)  |  37 (7)  |  16 (9)  |  30 (8)  |  19 (9)  | [Link](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)                                                                    |
 |       14th       |           gemma-2-9b-it            |     Google     |      61.2      |    8.4     |  24 (8)  |  20 (9)  |  16 (9)  |  22 (9)  |  17 (9)  |  29 (8)  |  24 (8)  |  25 (8)  |  25 (8)  |  29 (8)  | [Link](https://huggingface.co/google/gemma-2-9b-it)                                                                                    |
 |       15th       |    Llama-3.2-3B-Instruct-Turbo     |   meta-llama   |      60.6      |    8.7     |  28 (8)  |  18 (9)  |  27 (8)  |  23 (9)  |  16 (9)  |  17 (9)  |  21 (9)  |  29 (8)  |  22 (9)  |  23 (9)  | [Link](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)                                                                        |
@@ -47,11 +46,11 @@ GPU 자원 Donation해주신다면 평가에 큰 도움이 될 것 같습니다.
 
 ## 🎯 수능 국어 LLM Leaderboard란?
 
-KO-SAT Slayer Champions League는 한국교육과정평가원(KICE)이 개발한 대학수학능력시험(수능) 국어 과목의 10개년 시험문제를 기반으로 한 벤치마크 리더보드입니다.
+수능 국어 LLM Leaderboard는 한국교육과정평가원(KICE)이 개발한 대학수학능력시험(수능) 국어 과목의 10개년 시험문제를 기반으로 한 벤치마크 리더보드입니다.
 
-매년 엄선된 수능 국어 시험 문제를 통해 여러분의 대형 언어 모델(LLM)의 성능을 평가할 수 있는 기회를 제공합니다. 평가 방식은 실제 수능과 동일하게 표준점수와 등급 체계를 사용하여, 사람의 시험 성적과 LLM의 성능을 직접 비교할 수 있도록 구성되어 있습니다.
+매년 엄선된 수능 국어 시험 문제를 통해 여러분의 대형 언어 모델(LLM)의 성능을 평가할 수 있습니다. 평가 방식은 실제 수능과 동일하게 표준점수와 등급 체계를 사용하여, Human performance와 LLM의
+performance을 직접 비교할 수 있도록 구성되어 있습니다.
 
-여러분의 모델이 수능 국어 시험에서 얼마나 우수한 성과를 낼 수 있는지 도전해 보세요!
 
 ## 🏅 Submit 방식
 
