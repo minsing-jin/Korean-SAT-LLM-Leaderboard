@@ -17,7 +17,7 @@ The KO-SAT Slayer Champions League is a leaderboard benchmarked using the Korean
 - **Ranking Criteria**: The average of standardized scores across 10 years (standardized scores reflect the difficulty of each year's exam).
 - **Score Format**: Raw score (Grade)
 
-[Click here for a detailed explanation of scoring]()
+[Click here for a detailed explanation of scoring](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/tree/main?tab=readme-ov-file#%EF%B8%8F-metrics)
 
 | Leaderboard Rank | Model Name                         | Submitter Name | Avg. Korean SAT std Score (2015-2024) | Avg. Korean SAT Raw Score (2015-2024) | Avg. Grade | 2015 SAT | 2016 SAT | 2017 SAT | 2018 SAT | 2019 SAT | 2020 SAT | 2021 SAT | 2022 SAT | 2023 SAT | 2024 SAT | URL                                                                                                                                    |
 |-----------------:|:-----------------------------------|:---------------|--------------------------------------:|--------------------------------------:|-----------:|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------------------------------------------------------------------------------------------------------------------------------------|
