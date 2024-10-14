@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/013fead4-495b-4cd8-9019-f64fe8447a22)
 
 # 🏆 수능 국어 LLM 리더보드
 
