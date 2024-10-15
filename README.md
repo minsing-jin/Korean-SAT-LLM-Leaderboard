@@ -57,6 +57,7 @@ Donating GPU resources would be greatly appreciated and would help with the eval
 - **o1-preview**: 88 points (Grade 1, Top 4%)
 - **o1-mini**: 60 points (Grade 5)
 
+i.e) The GPT O1 model is scheduled for a benchmark update when the official version of O1 is released!
 ---
 
 ## 🏅 Submission Guidelines
