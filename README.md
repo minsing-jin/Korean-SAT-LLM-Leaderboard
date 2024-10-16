@@ -17,7 +17,7 @@ exams, developed by the reputable KICE (Korea Institute for Curriculum and Evalu
 The CSAT consists of a wide range of question types depending on the difficulty level, designed to assess reading
 comprehension, critical thinking, and sentence interpretation skills.
 
-If you want to know more about Korean SAT (Korean College entrance exam), please refer [this]()!
+If you want to know more about Korean SAT (Korean College entrance exam), please refer [this](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard?tab=readme-ov-file#-benchmark-dataset)!
 
 | Leaderboard Rank |             Model Name             | Submitter Name | Avg. std Score | Avg. Grade | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | 2018 SAT | 2017 SAT | 2016 SAT | 2015 SAT | URL                                                                                                                                    |
 |:----------------:|:----------------------------------:|:--------------:|:--------------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------|
