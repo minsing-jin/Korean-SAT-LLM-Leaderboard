@@ -90,6 +90,29 @@ i.e) The GPT O1 model is scheduled for a benchmark update when the official vers
 - For the elective subjects introduced in 2022, **Speech and Composition** will be used as the elective subject for benchmarking.
 - The key evaluation metrics for the benchmark dataset include: **Language Comprehension**, **Core Content Understanding**, **Logical Reasoning**, **Critical Thinking**, **Creative Thinking**, and **Multimedia Interpretation Skills**.
   <Source: 2024 KICE CSAT Korean Evaluation Criteria>
+ - The comprehension of LLMs can be assessed by examining their performance on problems from various fields such as humanities, social sciences, science, technology, and the arts. 
+
+## 📑 Detailed Explanation of Benchmark Dataset
+### (1) 📚 Reading Comprehension
+Content: Passages are drawn from a wide range of fields, including humanities, social sciences, science, technology, and the arts.
+- **Humanities passages**: Cover topics such as philosophy, argumentation, and history.
+- **Social sciences passages**: Focus on subjects like economics, politics, law, and culture.
+- **Science passages**: Include content related to physics, chemistry, biology, and earth sciences.
+- **Technology passages**: Feature topics like computers, machinery, and everyday science.
+- **Arts passages**: Encompass a variety of artistic themes, including visual arts, music, architecture, and film.
+- **Integrated passages**: Complex, long passages that combine multiple fields are also frequently included.
+
+- **Evaluation focus**: Assessment of understanding across diverse domains, evaluation of reasoning and critical thinking skills.
+
+### (2) 🧑‍🎤 Literature
+Content: Covers a variety of literary genres such as classical and modern novels, classical and modern poetry, and classical essays.
+
+- **Evaluation focus**: Assessment of emotional and stylistic comprehension, evaluation of understanding of various literary periods and genres.
+
+### (3) 🗣️ Speech and Writing
+Content: Includes problems dealing with dialogue and writing.
+
+- **Evaluation focus**: Assessment of understanding in conversational contexts and evaluation of writing skills.
 
 ## ♾️ Metric
 
