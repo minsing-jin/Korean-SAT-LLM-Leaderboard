@@ -93,7 +93,7 @@ i.e) The GPT O1 model is scheduled for a benchmark update when the official vers
   <Source: 2024 KICE CSAT Korean Evaluation Criteria>
  - The comprehension of LLMs can be assessed by examining their performance on problems from various fields such as humanities, social sciences, science, technology, and the arts. 
 
-## 📑 Detailed Explanation of Benchmark Dataset
+## 📑 Category of Benchmark Dataset
 ### (1) 📚 Reading Comprehension
 Content: Passages are drawn from a wide range of fields, including humanities, social sciences, science, technology, and the arts.
 - **Humanities passages**: Cover topics such as philosophy, argumentation, and history.
@@ -147,6 +147,7 @@ compare human proficiency with the language capabilities of LLMs.
 - Due to copyright concerns, the CSAT benchmark dataset will not be made publicly available. The evaluation data spans from the **2015 CSAT to the 2024 CSAT**, and elective subjects for the years 2022 to 2024 will be limited to **Speech and Composition**.
 - To ensure fairness, the prompts will not be disclosed.
 - In the future, the leaderboard will be updated to reflect models submitted for all subjects, including Korean, English, Math, Science, and Social Studies, on the day of the CSAT.
+- This KO-SAT benchmarking system utilizes [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG). AutoRAG is awesome!!
 
 ## 📬 Contact Us
 
