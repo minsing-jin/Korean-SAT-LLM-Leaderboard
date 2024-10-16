@@ -148,6 +148,7 @@ compare human proficiency with the language capabilities of LLMs.
 - To ensure fairness, the prompts will not be disclosed.
 - In the future, the leaderboard will be updated to reflect models submitted for all subjects, including Korean, English, Math, Science, and Social Studies, on the day of the CSAT.
 - This Korean-SAT benchmarking system powerd by [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG). AutoRAG is awesome!!
+(AutoRAG is an automatic RAG optimization tool that can also be used for LLM performance comparison and prompt engineering.)
 
 ## 📬 Contact Us
 

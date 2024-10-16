@@ -133,6 +133,7 @@ performance을 직접 비교할 수 있도록 구성되어 있습니다.
 - 평가의 공정성을 위해서 프롬프트는 공개하지 않습니다!
 - 추후 수능 당일 제출해주신 모델들을 전부 반영할 국영수사과 모두 리더보드에서 업데이트 예정입니다.
 - 본 수능 벤치마크 시스템은 [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)를 사용했습니다! 
+(AutoRAG is an automatic RAG optimization tool that can also be used for LLM performance comparison and prompt engineering.)
 
 ## 📬 문의하기
 
