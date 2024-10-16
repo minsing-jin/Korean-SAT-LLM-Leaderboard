@@ -3,7 +3,7 @@
 # 🏆 수능 국어 LLM 리더보드
 
 ------------
-수능 국어 LLM 벤치마크 리더보드를 바탕으로, Human performance와 LLM의 Performance를 비교해보세요!
+수능 국어 LLM 벤치마크 리더보드로 Human performance와 LLM의 Performance를 비교해보세요!
 
 여러분이 개발한 한국어 LLM 파인튜닝 모델이 인간의 performance를 넘어 새로운 역사를 쓸 준비가 되었습니까? 지금 바로 벤치마크에서 모델의 한계를 시험하고, 수능 국어에서 SOTA(State Of The
 Art) 자리를 차지하세요!👑
