@@ -35,7 +35,8 @@ Art) 자리를 차지하세요!👑
 [점수에 대한 설명 바로가기](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md#%EF%B8%8F-metric)
 
 i.e)
-GPU 자원 Donation해주신다면 평가에 큰 도움이 될 것 같습니다. 감사합니다!
+- GPU 자원 Donation해주신다면 평가에 큰 도움이 될 것 같습니다. 감사합니다!
+- 적극적인 피드백 환영합니다! 언제든 말씀해주세요!
 
 ### 📗 Notes. 24 수능 (1개년) 모델 성능 비교 결과
 

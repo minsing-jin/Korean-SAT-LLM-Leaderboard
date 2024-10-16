@@ -50,7 +50,8 @@ Here’s the English translation:
 [Click here for details on the scoring system](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md#%EF%B8%8F-metric)
 
 i.e.)
-Donating GPU resources would be greatly appreciated and would help with the evaluations. Thank you!
+- Donating GPU resources would be greatly appreciated and would help with the evaluations. Thank you!
+- Welcome any and all feedback! Feel free to share your thoughts anytime!
 
 ### 📗 Notes: Performance comparison of models on the 2024 CSAT (1-year)
 
