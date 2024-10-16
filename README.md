@@ -158,3 +158,7 @@ compare human proficiency with the language capabilities of LLMs.
 
 Are you ready to become the next **KO-SAT Slayer Champion**? 💪
 
+
+
+---------
+This benchmark leaderboard is a non-profit project that aims to provide information on LLM performance with SAT benchmarks! 

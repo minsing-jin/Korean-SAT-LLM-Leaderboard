@@ -143,3 +143,6 @@ performance을 직접 비교할 수 있도록 구성되어 있습니다.
 
 **다음 KO-SAT Slayer Champion**이 될 준비가 되셨나요? 💪
 
+
+-------
+This benchmark leaderboard is a non-profit project that aims to provide information on LLM performance with SAT benchmarks! 
