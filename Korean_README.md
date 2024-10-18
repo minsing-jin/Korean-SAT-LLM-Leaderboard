@@ -153,6 +153,10 @@ performance을 직접 비교할 수 있도록 구성되어 있습니다.
 **다음 KO-SAT Slayer Champion**이 될 준비가 되셨나요? 💪
 
 
+## License
+- 본 데이터셋의 출처는 [한국교육과정평가원 (KICE)](https://www.kice.re.kr/main.do?s=kice)에 있습니다.
+
+
 -------
 This benchmark leaderboard is a non-profit project that aims to provide information on LLM performance with SAT
 benchmarks! 

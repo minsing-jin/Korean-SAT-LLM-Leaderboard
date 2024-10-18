@@ -162,7 +162,8 @@ compare human proficiency with the language capabilities of LLMs.
 
 Are you ready to become the next **KO-SAT Slayer Champion**? 💪
 
-
+## License
+- This dataset is sourced from the [Korea Institute for Curriculum Evaluation (KICE)](https://www.kice.re.kr/main.do?s=kice).
 
 ---------
 This benchmark leaderboard is a non-profit project that aims to provide information on LLM performance with SAT benchmarks! 
