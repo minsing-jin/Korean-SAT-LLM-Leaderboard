@@ -29,6 +29,7 @@ Art) 자리를 차지하세요!👑
 |       17th       |    Llama-3.2-3B-Instruct-Turbo     |   meta-llama   |      60.6      |    8.7     |  28 (8)  |  18 (9)  |  27 (8)  |  23 (9)  |  16 (9)  |  17 (9)  |  21 (9)  |  29 (8)  |  22 (9)  |  23 (9)  | [Link](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)                                                                        |
 |       18th       |      Mistral-7B-Instruct-v0.3      |   MistralAI    |      57.2      |    8.9     |  17 (9)  |  11 (9)  |  22 (9)  |  12 (9)  |  18 (9)  |  21 (9)  |  19 (9)  |  27 (8)  |  23 (9)  |  21 (9)  | [Link](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3)                                                                      |
 
+
 - **Rank 기준**: 10개년 수능 표준점수들의 평균  <표준점수를 통해서 각 년도별 시험의 난이도를 점수에서 반영합니다.>
 - **Avg. std Score:** 표준점수 평균
 - **Avg. Grade:** 등급 평균
