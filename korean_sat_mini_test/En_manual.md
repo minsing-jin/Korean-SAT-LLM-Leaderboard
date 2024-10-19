@@ -10,12 +10,12 @@ If you'd like to get a sense of how your model performs before submitting it, gi
     ```
 2. Set your OpenAI API key as an environment variable in `.env`.
 3. Run the `make_autorag_dataset.ipynb` notebook to convert the dataset from JSON format into the AutoRAG dataset format.
-4. Configure your prompt and model settings in the `autorag_config.yaml` file. [How to configure]()
+4. Configure your prompt and model settings in the `autorag_config.yaml` file. [How to configure](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/Kor_manual.md#-how-to-replace-prompt-and-model)
 5. Execute `autorag_run.py`:
     ```bash
     python ./korean_sat_mini_test/autorag_run.py --qa_data_path ./data/autorag/qa_2023.parquet --corpus_data_path ./data/autorag/corpus_2023.parquet
     ```
-   - If you'd like to modify the prompt or model settings, [refer to the steps below]().
+   - If you'd like to modify the prompt or model settings, [refer to the steps below](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/Kor_manual.md#-how-to-replace-prompt-and-model).
 
 6. Check the results in the `autorag_project_dir` folder.
 7. Run `grading_report_card.ipynb` to view your results! 
