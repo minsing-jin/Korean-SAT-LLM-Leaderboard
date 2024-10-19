@@ -19,6 +19,8 @@ comprehension, critical thinking, and sentence interpretation skills.
 
 If you want to know more about Korean SAT (Korean College entrance exam), please refer [this](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard?tab=readme-ov-file#-benchmark-dataset)!
 
+
+## 💯 Leaderboard
 | Leaderboard Rank |             Model Name             | Submitter Name | Avg. std Score | Avg. Grade | 2024 SAT | 2023 SAT | 2022 SAT | 2021 SAT | 2020 SAT | 2019 SAT | 2018 SAT | 2017 SAT | 2016 SAT | 2015 SAT | URL                                                                                                                                    |
 |:----------------:|:----------------------------------:|:--------------:|:--------------:|:----------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:---------------------------------------------------------------------------------------------------------------------------------------|
 |    🥇 **1st**    |         gpt-4o-2024-08-06          |     OpenAI     |     114.9      |    3.6     |  65 (4)  |  81 (4)  |  70 (4)  |  69 (4)  |  76 (4)  |  74 (3)  |  77 (4)  |  86 (2)  |  84 (3)  |  77 (4)  | [Link](https://openai.com/)                                                                                                            |

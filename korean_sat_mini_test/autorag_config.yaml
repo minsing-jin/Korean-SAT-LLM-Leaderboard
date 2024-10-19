@@ -1,0 +1,29 @@
+node_lines:
+  - node_line_name: prompt_node_line
+    nodes:
+      - node_type: prompt_maker
+        strategy:
+          metrics:
+            - metric_name: kice_metric
+        modules:
+          - module_type: fstring
+            prompt:
+              - |
+                Answer the given question.
+                Read paragraph, and select only one answer between 5 choices.
+                
+                paragraph :
+                {retrieved_contents}
+                
+                question of problem :
+                {query}
+                
+                Answer : 3
+      - node_type: generator
+        strategy:
+          metrics:
+            - metric_name: kice_metric
+        modules:
+          - module_type: llama_index_llm
+            llm: [ huggingfacellm ]
+            model: HumanF-MarkrAI/Gukbap-Qwen2-7B
