@@ -16,7 +16,7 @@
 ### [한국어 설명 바로가기](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md)
 
 -------
-### 📊 Test Your Own Model on the 2023 Korean SAT Sample Dataset
+## 📊 Test Your Own Model on the 2023 Korean SAT Sample Dataset
 
 [Learn How to Test Your Model](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/En_manual.md#2023-korean-sat-benchmark-guide)
 

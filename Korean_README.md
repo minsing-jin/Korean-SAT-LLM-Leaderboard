@@ -13,7 +13,7 @@
 - [📰 Notice](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-notice)
 - [📬 문의하기](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0)
 
-#### [2023 수능 샘플 데이터셋 모델 테스트 하는 방법](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/En_manual.md#2023-korean-sat-benchmark-guide)
+### [2023 수능 샘플 데이터셋 모델 테스트 하는 방법](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/En_manual.md#2023-korean-sat-benchmark-guide)
 
 ------------
 수능 국어 LLM 벤치마크 리더보드로 Human performance와 LLM의 Performance를 비교해보세요!
