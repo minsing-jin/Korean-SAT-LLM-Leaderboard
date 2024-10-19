@@ -2,6 +2,19 @@
 
 # 🏆 수능 국어 LLM 리더보드
 
+--------------
+## 🗂️ Index
+- [💯 리더보드 순위](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-%EB%A6%AC%EB%8D%94%EB%B3%B4%EB%93%9C-%EC%88%9C%EC%9C%84)
+- [🎯 수능 국어 LLM Leaderboard란?](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-%EC%88%98%EB%8A%A5-%EA%B5%AD%EC%96%B4-llm-leaderboard%EB%9E%80)
+- [🥇 Submit 방식](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-submit-%EB%B0%A9%EC%8B%9D)
+- [🪑 About benchmark Datadataset](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-benchmark-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B)
+- [♾️ Metric](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#%EF%B8%8F-metric)
+- [📗 참고해볼만한 Reference](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#%EF%B8%8F-metric)
+- [📰 Notice](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-notice)
+- [📬 문의하기](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/Korean_README.md#-%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0)
+
+#### [2023 수능 샘플 데이터셋 모델 테스트 하는 방법](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/En_manual.md#2023-korean-sat-benchmark-guide)
+
 ------------
 수능 국어 LLM 벤치마크 리더보드로 Human performance와 LLM의 Performance를 비교해보세요!
 
