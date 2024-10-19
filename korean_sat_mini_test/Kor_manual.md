@@ -10,12 +10,12 @@
    ```
 2. `.env`에 OpenAI API KEY를 환경 변수로 설정합니다.
 3. `make_autorag_dataset.ipynb`를 실행하여 json 데이터를 AutoRAG 데이터셋으로 변경합니다.
-4. `autorag_config.yaml`에서 프롬프트와 추가할 모델을 설정합니다. [설정방법]()
+4. `autorag_config.yaml`에서 프롬프트와 추가할 모델을 설정합니다. [설정방법](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/Kor_manual.md#-how-to-replace-prompt-and-model)
 5. `autorag_run.py`를 실행합니다.
     ```bash
     python ./korean_sat_mini_test/autorag_run.py --qa_data_path ./data/autorag/qa_2023.parquet --corpus_data_path ./data/autorag/corpus_2023.parquet
     ```
-   - run하기 전 모델과 프롬프트를 바꾸고 싶다면 [아래 설명을 참고하세요]()
+   - run하기 전 모델과 프롬프트를 바꾸고 싶다면 [아래 설명을 참고하세요](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/Kor_manual.md#-how-to-replace-prompt-and-model)
 
 6. `autorag_project_dir` 폴더에서 결과를 확인합니다.
 7. `grading_report_card.ipynb`를 실행하여 여러분의 성적표를 확인해보세요!
