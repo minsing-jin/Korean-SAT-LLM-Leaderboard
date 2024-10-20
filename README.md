@@ -18,7 +18,7 @@
 -------
 ## 📊 Test Your Own Model on the 2023 Korean SAT Sample Dataset
 
-[Learn How to Test Your Model](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/En_manual.md#2023-korean-sat-benchmark-guide)
+[Learn How to Test Your Model](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/manual/En_manual.md)
 
 ------
 Take advantage of this unique opportunity to compare human academic ability with the performance of large language
