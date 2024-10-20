@@ -2,6 +2,11 @@
 
 # 🏆 Korean SAT LLM Leaderboard
 
+-------
+## 📊 Test Your Own Model on the 2023 Korean SAT Sample Dataset
+
+[Learn How to Test Your Model](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/manual/En_manual.md)
+
 --------
 ## 🗂️ Index
 - [🎯 What is the Korean SAT LLM Leaderboard?](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/README.md#-what-is-the-korean-sat-llm-leaderboard)
@@ -14,11 +19,6 @@
 - [📰 Notice](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/README.md#-notice)
 - [📬 Contact Us](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/README.md#-contact-us)
 ### [한국어 설명 바로가기](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md)
-
--------
-## 📊 Test Your Own Model on the 2023 Korean SAT Sample Dataset
-
-[Learn How to Test Your Model](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/blob/main/korean_sat_mini_test/manual/En_manual.md)
 
 ------
 Take advantage of this unique opportunity to compare human academic ability with the performance of large language
