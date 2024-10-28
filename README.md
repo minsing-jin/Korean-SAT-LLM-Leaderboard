@@ -69,7 +69,7 @@ If you want to know more about Korean SAT (Korean College entrance exam), please
 
 Here’s the English translation:
 
-[Click here for details on the scoring system](https://github.com/minsing-jin/KO-SAT_Slayer_Champions_League/blob/main/Korean_README.md#%EF%B8%8F-metric)
+[Click here for details on the scoring system](https://github.com/minsing-jin/Korean-SAT-LLM-Leaderboard/tree/main?tab=readme-ov-file#%EF%B8%8F-metric)
 
 i.e.)
 - Donating GPU resources would be greatly appreciated and would help with the evaluations. Thank you!
